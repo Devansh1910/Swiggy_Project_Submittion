@@ -94,16 +94,6 @@ This repository contains an iOS app built using Swift that mimics the food page 
 
 ---
 
-## Screenshots
-
-| Feature               | Screenshot |
-|-----------------------|------------|
-| Sticky Header         | ![Header Screenshot](screenshots/header.png) |
-| Horizontal Collection | ![Horizontal Screenshot](screenshots/horizontal.png) |
-| Details Page          | ![Details Screenshot](screenshots/details.png) |
-
----
-
 ## How to Contribute
 
 1. Fork the repository.
