@@ -111,22 +111,3 @@ This repository contains an iOS app built using Swift that mimics the food page 
    ```
 5. Create a pull request.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contact
-
-For any questions or feedback, feel free to reach out:
-
-- **Email**: your-email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-
----
-
-Happy Coding! 🎉
-
